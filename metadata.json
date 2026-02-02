@@ -1,0 +1,5 @@
+{
+  "name": "UniGrade - Result Processing System",
+  "description": "A comprehensive university examination system managing marks, GPA calculations, transcripts, and approval workflows.",
+  "requestFramePermissions": []
+}
